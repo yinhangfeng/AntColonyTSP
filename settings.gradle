@@ -1,0 +1,4 @@
+rootProject.name = 'ant-colony-tsp'
+
+include 'acotsp', 'test'
+

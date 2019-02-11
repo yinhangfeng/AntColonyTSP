@@ -1,0 +1,9 @@
+.idea
+*.iml
+/out
+/acotsp/out
+/test/out
+.gradle
+/gradle
+build
+/outputs
