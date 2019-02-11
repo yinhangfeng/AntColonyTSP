@@ -17,5 +17,9 @@ System.out.println("response: " + response);
 ## Running Test
 
 ```
-./gradlew run
+gradle run
 ```
+
+## Download
+
+TODO
